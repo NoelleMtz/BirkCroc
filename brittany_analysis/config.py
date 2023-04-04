@@ -1,0 +1,10 @@
+#Google Shopping
+google_api="5af04470450e7582f91c9c88798249bc20a7c9988cdd8c672d3bfa5c4ff38b29"
+
+
+
+rainforest_api="891E52E9C06B4E40A0AB2879B4074740"
+
+
+#AMAZON
+rapid_api="21e913b6aamshabe30ed6ea2ea9dp1929a6jsn3eff6f217600"
