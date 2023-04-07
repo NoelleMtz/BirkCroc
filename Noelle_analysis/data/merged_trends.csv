@@ -1,0 +1,52 @@
+,geo_x,State,Birk max value index,Birk value,Birk extracted value,geo_y,Croc max value index,Croc value,Croc extracted value
+0,US-VT,Vermont,0,100,100,US-VT,0,51,51
+1,US-SD,South Dakota,0,86,86,US-SD,0,35,35
+2,US-ID,Idaho,0,85,85,US-ID,0,40,40
+3,US-IA,Iowa,0,82,82,US-IA,0,42,42
+4,US-MN,Minnesota,0,80,80,US-MN,0,49,49
+5,US-AR,Arkansas,0,79,79,US-AR,0,53,53
+6,US-OR,Oregon,0,79,79,US-OR,0,49,49
+7,US-HI,Hawaii,0,78,78,US-HI,0,83,83
+8,US-NE,Nebraska,0,74,74,US-NE,0,47,47
+9,US-MT,Montana,0,73,73,US-MT,0,36,36
+10,US-WA,Washington,0,72,72,US-WA,0,54,54
+11,US-DC,District of Columbia,0,71,71,US-DC,0,64,64
+12,US-RI,Rhode Island,0,71,71,US-RI,0,73,73
+13,US-NH,New Hampshire,0,70,70,US-NH,0,55,55
+14,US-TN,Tennessee,0,70,70,US-TN,0,61,61
+15,US-ND,North Dakota,0,70,70,US-ND,0,41,41
+16,US-ME,Maine,0,70,70,US-ME,0,52,52
+17,US-CA,California,0,69,69,US-CA,0,89,89
+18,US-UT,Utah,0,67,67,US-UT,0,49,49
+19,US-AL,Alabama,0,67,67,US-AL,0,73,73
+20,US-CO,Colorado,0,67,67,US-CO,0,53,53
+21,US-WI,Wisconsin,0,66,66,US-WI,0,58,58
+22,US-MA,Massachusetts,0,65,65,US-MA,0,71,71
+23,US-KS,Kansas,0,65,65,US-KS,0,45,45
+24,US-NC,North Carolina,0,63,63,US-NC,0,75,75
+25,US-AZ,Arizona,0,63,63,US-AZ,0,84,84
+26,US-SC,South Carolina,0,62,62,US-SC,0,79,79
+27,US-KY,Kentucky,0,61,61,US-KY,0,64,64
+28,US-AK,Alaska,0,61,61,US-AK,0,51,51
+29,US-WV,West Virginia,0,58,58,US-WV,0,60,60
+30,US-CT,Connecticut,0,58,58,US-CT,0,79,79
+31,US-MI,Michigan,0,58,58,US-MI,0,64,64
+32,US-OK,Oklahoma,0,57,57,US-OK,0,47,47
+33,US-IN,Indiana,0,57,57,US-IN,0,66,66
+34,US-NM,New Mexico,0,57,57,US-NM,0,66,66
+35,US-MO,Missouri,0,57,57,US-MO,0,53,53
+36,US-MS,Mississippi,0,57,57,US-MS,0,79,79
+37,US-IL,Illinois,0,57,57,US-IL,0,80,80
+38,US-OH,Ohio,0,54,54,US-OH,0,70,70
+39,US-VA,Virginia,0,54,54,US-VA,0,79,79
+40,US-WY,Wyoming,0,53,53,US-WY,0,33,33
+41,US-NY,New York,0,51,51,US-NY,0,73,73
+42,US-PA,Pennsylvania,0,51,51,US-PA,0,78,78
+43,US-DE,Delaware,0,50,50,US-DE,0,90,90
+44,US-GA,Georgia,0,50,50,US-GA,0,86,86
+45,US-NV,Nevada,0,48,48,US-NV,0,85,85
+46,US-NJ,New Jersey,0,47,47,US-NJ,0,81,81
+47,US-TX,Texas,0,46,46,US-TX,0,93,93
+48,US-MD,Maryland,0,43,43,US-MD,0,100,100
+49,US-LA,Louisiana,0,39,39,US-LA,0,64,64
+50,US-FL,Florida,0,38,38,US-FL,0,82,82
