@@ -20,8 +20,8 @@ Our project's core question is whether Crocs or Birkenstocks are close competiti
 ## Datasets used
 * Google Trends
 * Google Shopping
-* Locations of Project Deliverables
 
+## Locations of Project Deliverables
 | Objective | Location |
 | --------- | -------- |
 | Presentation | [Google Slides](https://docs.google.com/presentation/d/1cm8ZG2BboMqsSetozpw5tMyKInp_Iahw8aYyBYXn1VI/edit?usp=sharing/) |
