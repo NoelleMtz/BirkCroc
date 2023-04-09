@@ -24,7 +24,7 @@ Our project's core question is whether Crocs or Birkenstocks are close competiti
 
 | Objective | Location |
 | --------- | -------- |
-| Presentation | Google Slides |
+| Presentation | [Google Slides](https://docs.google.com/presentation/d/1cm8ZG2BboMqsSetozpw5tMyKInp_Iahw8aYyBYXn1VI/edit?usp=sharing/) |
 | Code | team project.ipynb |
 
 ## Analysis Results
