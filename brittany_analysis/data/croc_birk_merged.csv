@@ -1,4 +1,5 @@
 ,Product name_x,Selling Source,Price ($)_x,Extracted Price_x,Rating_x,Reviews_x,Product name_y,Price ($)_y,Extracted Price_y,Rating_y,Reviews_y
+<<<<<<< HEAD
 0,Birkenstock Arizona Sandals Brown,Amazon.com - Seller,92.18,92.18,4.6,415,Crocs Unisex Classic Clog,29.43,29.43,4.7,464
 1,Birkenstock Women's Arizona Soft Footbed Birko-Flor Sandal - 51063,Amazon.com - Seller,108.03,108.03,4.7,9710,Crocs Unisex Classic Clog,29.43,29.43,4.7,464
 2,"Birkenstock Arizona EVA, White / 41",DICK'S Sporting Goods,49.95,49.95,4.6,14162,Crocs Classic Clog 204536 Pink,26.24,26.24,4.8,1723
@@ -22,3 +23,32 @@
 20,Birkenstock Women's Arizona Eva Essentials Sandal - Sky Blue,Academy Sports + Outdoors,49.99,49.99,4.5,6459,Crocs Classic Marbled Clog White/Black,41.24,41.24,4.8,640
 21,Birkenstock Kids' Arizona Eva Beetroot Purple,Foot Locker,35.0,35.0,4.3,34,Crocs Mens Classic - Mens Shoes White/Grey Size 9.0,70.0,70.0,3.7,3
 22,Birkenstock Arizona Classic Sandal Black,SoftMoc Shoes,120.0,120.0,4.7,687,Crocs - Kids Classic Butterfly Clog,33.74,33.74,5.0,5
+=======
+0,Women's Birkenstock Arizona Essentials Slide Sandal - Black - Size 10,DSW,49.99,49.99,4.6,14162,Crocs Classic Clog Bone,37.99,37.99,4.6,13555
+1,Birkenstock Mocca Arizona Sandals,Amazon.com - Seller,101.05,101.05,4.9,346,Crocs Unisex-Adult Classic Crush Clogs | Platform Shoes,48.74,48.74,0.0,0
+2,Birkenstock Mocca Arizona Sandals,Amazon.com - Seller,101.05,101.05,4.9,346,Crocs Unisex-Child Classic Cutie Platform Clogs,29.97,29.97,0.0,0
+3,"Birkenstock Women's, Mayari Thong Sandals",Amazon.com - Seller,65.0,65.0,0.0,0,Crocs Unisex-Adult Classic Crush Clogs | Platform Shoes,48.74,48.74,0.0,0
+4,"Birkenstock Women's, Mayari Thong Sandals",Amazon.com - Seller,65.0,65.0,0.0,0,Crocs Unisex-Child Classic Cutie Platform Clogs,29.97,29.97,0.0,0
+5,"Birkenstock Mayari Birko-Flor Slide Sandal in White at Nordstrom, Size 11-11.5Us",Nordstrom,59.95,59.95,4.8,16,Crocs Kids Classic Clog White,39.99,39.99,4.8,1325
+6,"Birkenstock Arizona Sandal - Girls' Electric Metallic Gold Birko-Flor, 26.0",Nordstrom,59.95,59.95,4.5,6087,Crocs Kids Classic Clog White,39.99,39.99,4.8,1325
+7,"Birkenstock Women's Arizona Birko-Flor Sandal, Black, 37",Zappos.com,110.0,110.0,4.8,1251,"Crocs Classic Clog Lavender, 2",37.49,37.49,4.8,126
+8,"Birkenstock Women's Arizona Birko-Flor Sandal, Black, 37",Zappos.com,110.0,110.0,4.8,1251,"Crocs Crush Butterfly Clog, White/Multi, M11",52.49,52.49,5.0,9
+9,Birkenstock Arizona Birko-Flor Single Shoe Black Birko-Flor,Zappos.com,49.97,49.97,0.0,0,"Crocs Classic Clog Lavender, 2",37.49,37.49,4.8,126
+10,Birkenstock Arizona Birko-Flor Single Shoe Black Birko-Flor,Zappos.com,49.97,49.97,0.0,0,"Crocs Crush Butterfly Clog, White/Multi, M11",52.49,52.49,5.0,9
+11,"Birkenstock Women's Arizona Slide Sandal, Mocha, 36",DICK'S Sporting Goods,109.99,109.99,4.6,1464,Crocs Classic Clog 204536 Pink,26.24,26.24,4.8,1723
+12,Birkenstock Women's Birko-Flor Patent Sandals - Fossi - Each,DICK'S Sporting Goods,99.99,99.99,5.0,1,Crocs Classic Clog 204536 Pink,26.24,26.24,4.8,1723
+13,Birkenstock Women's Arizona Split Mineral/Light Rose,6pm.com,71.4,71.4,4.8,7,"Crocs Classic Clog - Seasonal Graphic Black Daisy Men's 13, Women's 15 Medium",32.97,32.97,4.8,615
+14,"Birkenstock Women's Arizona Split Sandals, Black/White",Finish Line,115.0,115.0,4.7,43,Crocs x Jurassic World All-Terrain Classic Clog Shoes Size 5.0,65.0,65.0,4.1,15
+15,Birkenstock Women's Zermatt Shearling Light Gray / 38,Macy's,100.0,100.0,4.5,391,Crocs Pj Masks Classic Clog in Grass Green,40.0,40.0,3.0,1
+16,Birkenstock Arizona EVA Green,SVD-sivasdescalzo,28.0,28.0,4.5,6459,Crocs Classic Clog K Yellow,19.25,19.25,4.8,1020
+17,Birkenstock Arizona Split BF Black,SVD-sivasdescalzo,52.5,52.5,4.0,2,Crocs Classic Clog K Yellow,19.25,19.25,4.8,1020
+18,Birkenstock Boston Soft Footbed Suede Taupe / 43,StockX,148.0,148.0,4.6,1107,Crocs Classic Clog KFC,307.0,307.0,4.2,5
+19,Birkenstock Boston Soft Footbed Suede Taupe / 43,StockX,148.0,148.0,4.6,1107,Crocs Mens Steven Harrington Classic Clogs - Shoes White/Black Size 11.0,64.0,64.0,4.8,34
+20,Women's Birkenstock Arizona Eva Sandals,Famous Footwear,49.99,49.99,4.5,6459,"Crocs Classic Lined Clog - Kids' White/Grey, 3.0",49.99,49.99,4.6,374
+21,Birkenstock - MADRID_BIRKO-FLOR - Brown / 35,fruugo.com,89.0,89.0,4.8,164,Crocs Women's Brooklyn Low Wedges Sandal,64.0,64.0,0.0,0
+22,Birkenstock Women's Arizona Pink Wool Shearling,Champs Sports,64.99,64.99,4.3,91,Crocs Classic Disney Clog 207755 Black/Multi,60.0,60.0,4.8,156
+23,Birkenstock Women's Arizona Pink Wool Shearling,Champs Sports,64.99,64.99,4.3,91,Crocs Classic Clog - Banana,34.99,34.99,4.5,141
+24,Birkenstock - Boston Soft Footbed Oiled Leather Tobacco / 46,Backcountry.com,158.0,158.0,4.7,640,Adults' Crocs Classic Lined Clogs in Lavender/Lavend Size Men's 8 / Women's 10 Medium,29.98,29.98,4.8,6424
+25,Birkenstock Lugano Tobacco Oiled Leather / 45 / Regular,ShoeMall,140.0,140.0,2.6,13,Crocs Leopard / Gold Classic Printed Clog Shoes,54.99,54.99,4.8,629
+26,Birkenstock Silver Arizona Sandals,ssense.com,130.0,130.0,4.4,30,Crocs Kids Classic Butterfly Clog - White/Multi,45.0,45.0,5.0,5
+>>>>>>> 065c4f770a35a651e4f236a154829020efe42104
