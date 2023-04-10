@@ -29,7 +29,7 @@ Our project's core question is whether Crocs or Birkenstocks are close competiti
 
 ## Analysis Results
 
-While analyzing the data we were able to find that Birkenstocks received more overall reviews from customers over the course of the last year when directly compared to the number of croc reviews. While comparing reviews from multiple online stores which can be seen on the “Birkenstocks vs Crocs Reviews” graph we were able to notice a very similar number of reviews for both brands on two particular websites - Dick's Sporting Goods and Backcountry.com. Aside from these stores there was not a noticeable correlation in the number of reviews between the two brands.
+While analyzing the data we were able to find that Crocs received more overall reviews from customers over the course of the last year when directly compared to the number of croc reviews. While comparing reviews from multiple online stores which can be seen on the “Birkenstocks vs Crocs Reviews” graph we were able to notice a very similar number of reviews for both brands on three particular websites - Dick's Sporting Goods,Backcountry.com, and Tillys. Aside from these stores there was not a noticeable correlation in the number of reviews between the two brands.
 
 ![birkenstocks_vs_cros_reviews](data/croc_birk_CR.png)
 
