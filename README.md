@@ -31,13 +31,29 @@ Our project's core question is whether Crocs or Birkenstocks are close competiti
 
 While analyzing the data we were able to find that Birkenstocks received more reviews from customers over the course of the last year when directly compared to the number of croc reviews. While comparing reviews from multiple online stores which can be seen on the “Birkenstocks vs Crocs Reviews” graph we were able to notice a very similar number of reviews for both brands on two particular websites - DSW and Dicks Sporting Goods. Aside from these two stores there was not a noticeable correlation in the number of reviews between the two brands.
 
+!['birkenstocks_vs_cros_reviews']('data/croc_birk_CR.png')
+
 Once we looked over the data regarding the number of customer reviews we wondered if there would be a difference in the overall customer rating of the shoes over the course of the last year. The data gave us a clear visual that both brands consistently received very similar ratings from customers. Although both brands did have outlier reviews which we can see in our box plots titled “distributions of the ratings”. The outliers for both shoe brands were lower ratings which lead us to conclude that both shoe brands received a very similar overall customer rating, which was four stars or higher. 
+
+!['distributions_of_ratings_crocs']('rating_crocs.png')
+
+!['distributions_of_ratings_birks']('rating_birks.png')
 
 Based on the data we reviewed from google trends we noticed that Birkenstocks were trending higher than Crocs from May of 2022 to September of 2022. Beginning in October of 2022 the shoe brands switched roles in popularity and Crocs began trending higher than Birkenstocks. Crocs continues to trend higher than birkenstocks through March of 2023. As of April of 2023 Birkenstocks has regained its position of trending higher than Crocs. Our line graph titled “Birkenstocks vs Crocs Popularity” gives us the visual data we need to come to the conclusion that over the span of the last 12 months, trending popularity is split evenly between both Birkenstocks and Crocs. Each brand has 6 months of being the higher trending shoe brand.
 
-Through our data analysis we were able to learn that the overall popularity of the individual shoe brands is heavily impacted by location. An interesting discovery was that the brands hold popularity in differing locations. For example, Crocs were very popular on the east coast as well as Texas and California, whereas Birkenstocks were shown to be more popular in the midwest as well as Vermont. This data is shown through our heat maps titled “April 2023 Birkenstock Trend Popularity by State” and “ April 2023 Crocs Trend Popularity by State”. These visual representations of the data we collected and analyzed was very helpful in seeing the difference in popularity across the country.  
+!['googletrends']('images/GoogleTrends.png')
+
+Through our data analysis we were able to learn that the overall popularity of the individual shoe brands is heavily impacted by location. An interesting discovery was that the brands hold popularity in differing locations. For example, Crocs were very popular on the east coast as well as Texas and California, whereas Birkenstocks were shown to be more popular in the midwest as well as Vermont. This data is shown through our heat maps titled “April 2023 Birkenstock Trend Popularity by State” and “ April 2023 Crocs Trend Popularity by State”. These visual representations of the data we collected and analyzed was very helpful in seeing the difference in popularity across the country. 
+
+!['heat_map_croc']('images/choropleth-map-croc.html')
+
+!['heat_map_birk']('images/choropleth-map-birk.html') 
 
 Lastly we sought out to find if there was a correlation in price between Birkenstocks and Crocs. Based on our data we were able to conclude that there is not much of a relation in price between Crocs and Birkenstocks. Birkenstocks appeared to be consistently higher in price than Crocs across not only every website besides one but every city within the top 10 cities that we analyzed. Furthermore, the price of Birkenstocks appeared to vary much more across the country than Croc prices. Croc prices proved to be mostly within the $50 - $75 range whereas Birkenstock prices proved to mostly be within the $50 to $150 range.  
+
+!['crocprices']('price_crocs.png')
+
+!['birkprices']('price_birks.png')
 
 ## Major Findings
 
