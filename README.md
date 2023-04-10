@@ -43,6 +43,5 @@ Lastly we sought out to find if there was a correlation in price between Birkens
 
 1. The popularity of each brand occupies entirely separate portions of the country. 
 2. Ratings among the two brands proved to be very similar. Through the data we were able to conclude that most customers of both brands were satisfied with their purchase.
-3. Within the Birkenstocks brand there is a large amount of variation in price point, while Crocs maintained its prices within a smaller range and lower price point.
-
- 
+3. While the popularity of the brands is not exactly correlated, we were able to notice that the upward and downward trends of the brands appeared to follow a similar pattern.
+4. Within the Birkenstocks brand there is a large amount of variation in price point, while Crocs maintained its prices within a smaller range and lower price point.
