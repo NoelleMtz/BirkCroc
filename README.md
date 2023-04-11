@@ -4,7 +4,7 @@ Project 1
 | Member  | Sections | Responsibilities |
 | ------------- | ------------- | ------------- |
 | Brittany Brooks  | Google Shopping- product reviews & pricing by seller  | Pulled, cleaned Shopping data & graphs; Presentation slides |
-| Kyara Martinez  | Google Shopping- product reviews & pricing by top 10 cities  | Analysis write-up |
+| Kyara Martinez  | Google Shopping- product reviews & pricing by top 10 cities  | Boxplots by city; Analysis write-up |
 | Noelle Martinez | Google Trends data analysis| Pulled, cleaned Trends data & graphs/maps; Repo manager |
 
 ## Project Description
