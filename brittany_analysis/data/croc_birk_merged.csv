@@ -1,6 +1,7 @@
 ,Product name_x,Selling Source,Price ($)_x,Extracted Price_x,Rating_x,Reviews_x,Product name_y,Price ($)_y,Extracted Price_y,Rating_y,Reviews_y
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 0,Birkenstock Arizona Sandals Brown,Amazon.com - Seller,92.18,92.18,4.6,415,Crocs Unisex Classic Clog,29.43,29.43,4.7,464
 1,Birkenstock Women's Arizona Soft Footbed Birko-Flor Sandal - 51063,Amazon.com - Seller,108.03,108.03,4.7,9710,Crocs Unisex Classic Clog,29.43,29.43,4.7,464
 2,"Birkenstock Arizona EVA, White / 41",DICK'S Sporting Goods,49.95,49.95,4.6,14162,Crocs Classic Clog 204536 Pink,26.24,26.24,4.8,1723
@@ -79,3 +80,27 @@
 22,Birkenstock Eva Arizona - Rose 37,Finish Line,50.0,50.0,4.5,3338,Crocs Unisex Classic Clog Shoes (Men's Sizing) in Blue/Pure Water Size 8.0,40.0,40.0,0.0,0
 23,Birkenstock Arizona Kids Sandal,Foot Locker,60.0,60.0,4.5,21,Crocs Mens Classic - Mens Shoes White/Grey Size 13.0,70.0,70.0,3.7,3
 >>>>>>> parent of 065c4f7 (add)
+=======
+0,Birkenstock Black Arizona Sandals,ssense.com,190.0,190.0,4.5,6992,Crocs Kids Classic Butterfly Clog - White/Multi,45.0,45.0,5.0,5
+1,Birkenstock Brown Arizona Sandals,Amazon.com - Seller,99.0,99.0,4.7,582,Crocs Fun Lab Cars (Flame) Kids,29.99,29.99,4.7,546
+2,Birkenstock Arizona Birko-Flor Sandal,Amazon.com - Seller,80.41,80.41,4.8,152,Crocs Fun Lab Cars (Flame) Kids,29.99,29.99,4.7,546
+3,"Birkenstock Men's Arizona Eva Sandals, Multi/Black",DICK'S Sporting Goods,30.97,30.97,4.5,125,Crocs Classic Clog 204536 Pink,26.24,26.24,4.8,1723
+4,"Birkenstock Women's Arizona Slide Sandal, Mocha, 36",DSW,109.99,109.99,4.6,1464,Crocs Classic Clog - Black,49.99,49.99,4.6,15071
+5,Birkenstock Arizona Slide Sandal | Women's | Mocha | Size EU 37 / US Womens 6-6.5 ...,DSW,109.99,109.99,4.5,792,Crocs Classic Clog - Black,49.99,49.99,4.6,15071
+6,Birkenstock Milano HL Mocha Birkibuc,Zappos.com,69.95,69.95,4.6,14,Crocs Classic Clog,37.49,37.49,4.7,1413
+7,Birkenstock Milano HL Mocha Birkibuc,Zappos.com,69.95,69.95,4.6,14,Crocs Adult Classic Adjustable Slip Resistant Clog Shoes (Black/White Marble ...,44.99,44.99,4.0,9
+8,Birkenstock Arizona Toe Loop Sandal in Electric Metallic Gold,Backcountry.com,59.95,59.95,4.5,6087,"Crocs Classic Lined Clog - Kids' White/Grey, 3.0",37.46,37.46,4.6,374
+9,"Birkenstock Arizona Eva Multi Gold Women's, 39 / N",Scheels,54.95,54.95,4.5,1163,"Crocs Kids' Classic Clogs, Kids Unisex, Size: 10K, White",27.99,27.99,4.8,814
+10,"Birkenstock Arizona Eva Multi Gold Women's, 39 / N",Scheels,54.95,54.95,4.5,1163,Crocs Kids' Classic Marbled White/Black Clogs,39.99,39.99,4.8,510
+11,Birkenstock Kids Arizona Eva - Black 29,Famous Footwear,34.99,34.99,4.3,29,Crocs Classic Marbled Clog White/Black,49.99,49.99,4.8,640
+12,Birkenstock Kids Arizona Eva - Black 29,Famous Footwear,34.99,34.99,4.3,29,Crocs Classic Clog Margaritaville,59.99,59.99,4.3,144
+13,Birkenstock Arizona Sandals - Brown - Flat Sandals,London Store,99.0,99.0,4.6,588,Crocs Classic Mega Crush Clog - White - US 8 - Women,77.0,77.0,4.3,426
+14,Birkenstock Boston Soft Footbed Suede Taupe / 43,StockX,148.0,148.0,4.6,1107,Crocs Classic Clog KFC,307.0,307.0,4.2,5
+15,Birkenstock Boston Soft Footbed Suede Taupe / 43,StockX,148.0,148.0,4.6,1107,Crocs Classic Clog Lightning McQueen,205.0,205.0,4.8,53
+16,Birkenstock Eva Arizona - Rose 37,Finish Line,50.0,50.0,4.5,3338,Crocs Kids Classic Clog White,40.0,40.0,4.8,1325
+17,Birkenstock Arizona Birko Flor Black,SVD-sivasdescalzo,65.0,65.0,4.7,13725,Crocs Classic Clog K Red,19.25,19.25,4.7,18651
+18,Birkenstock Kids Arizona Birko-Flor White Two-Strap Sandals,SneakerStudio.com,50.0,50.0,5.0,1,Crocs Ice Blue Kids' Classic Clog Shoes,22.0,22.0,4.8,1723
+19,Birkenstock Kids Arizona Birko-Flor White Two-Strap Sandals,SneakerStudio.com,50.0,50.0,5.0,1,Crocs Unisex-Adult Men's and Women's Classic Slide Sandals,30.0,30.0,4.5,873
+20,Birkenstock Women's Mayari (39 Graceful Taupe Birko Flor),Eagle Eye Outfitters,99.95,99.95,4.7,1116,Crocs Kids Classic Clog - Neon Watermelon,39.95,39.95,4.7,69
+21,"Birkenstock Women's Arizona Sandals, Black, 41",Academy Sports + Outdoors,109.99,109.99,4.8,1251,"Crocs Classic Clog Lavender, 2",49.99,49.99,4.8,126
+>>>>>>> 80821434a51adad7b31d65e3667951c09d42c47b
