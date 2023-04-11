@@ -3,8 +3,8 @@ Project 1
 
 | Member  | Responsibilities |
 | ------------- | ------------- |
-| Brittany Brooks  | Google Shopping- Ratings & Reviews  |
-| Kyara Martinez  | Google Shopping- Price  |
+| Brittany Brooks  | Google Shopping- product reviews by seller  |
+| Kyara Martinez  | Google Shopping- by top 10 cities  |
 | Noelle Martinez | Google Trends data analysis|
 
 ## Project Description
