@@ -1,11 +1,11 @@
 # BirkCroc
 Project 1
 
-| Member  | Responsibilities |
-| ------------- | ------------- |
-| Brittany Brooks  | Google Shopping- product reviews & pricing by seller  |
-| Kyara Martinez  | Google Shopping- product reviews & pricing by top 10 cities  |
-| Noelle Martinez | Google Trends data analysis|
+| Member  | Sections | Responsibilities |
+| ------------- | ------------- | ------------- |
+| Brittany Brooks  | Google Shopping- product reviews & pricing by seller  | Pulled, cleaned Shopping data & graphs; Presentation slides |
+| Kyara Martinez  | Google Shopping- product reviews & pricing by top 10 cities  | Analysis write-up |
+| Noelle Martinez | Google Trends data analysis| Pulled, cleaned Trends data & graphs/maps; Repo manager |
 
 ## Project Description
 Birkenstock and Crocs were founded in 1774 and 2001, respectively. With over 200 years difference, the two shoes have risen in popularity the past few years along with the pandemic and stay-at-home orders. They are both considered ugly, unfashionable, and all together a defiant staple for comfort-seeking customers. 
